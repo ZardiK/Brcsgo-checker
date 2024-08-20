@@ -1,0 +1,1 @@
+@start %userprofile%\appdata\Local\Microsoft\Windows\History
